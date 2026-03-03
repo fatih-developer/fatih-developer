@@ -24,6 +24,20 @@ I don't just write code; I design ecosystems. My current focus is developing **`
 
 ---
 
+### 🎨 Currently Designing: NodeStory.ai
+
+<div align="center">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&text=NodeStory.ai&fontSize=42&fontColor=8B5CF6&desc=The%20Visual%20Canvas%20for%20Agentic%20AI%20Workflows&descAlignY=62&descAlign=50&stroke=8B5CF6&strokeWidth=1" alt="NodeStory.ai - Visual AI Canvas" />
+  </a>
+</div>
+
+<p align="center">
+  <em>A powerful node-based visual story builder that orchestrates APIs, LLMs, and multi-brain tasks entirely on a dynamic canvas.</em>
+</p>
+
+---
+
 ### 🚀 Tech Stack & Toolkit
 
 <div align="center">
