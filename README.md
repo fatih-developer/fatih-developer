@@ -2,7 +2,7 @@
 
 <!-- BÜYÜK VE DİNAMİK BAŞLIK (Typing SVG) -->
 <a href="https://github.com/fatih-developer">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi,+I'm+Fatih+👋;Ecosystem+Creator+%26+Software+Architect;Building+Agentic+AI+Workflows;Orchestrating+Multi-Brain+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Fatih+👋;Ecosystem+Creator+%26+Software+Architect;Building+Agentic+AI+Workflows;Orchestrating+Multi-Brain+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
