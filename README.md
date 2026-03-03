@@ -22,31 +22,6 @@
 
 I don't just write code; I design ecosystems. My current focus is developing **`fth-skills`**, a curated collection of agentic AI skills that utilize **Hybrid Handoff Patterns** to automate complex software development life cycles (SDLC).
 
-```mermaid
-graph TD
-    subgraph "Core Agentic Ecosystem"
-        AC[Assumption Checker] --> TD[Task Decomposer]
-        TD --> PP[Parallel Planner]
-    end
-
-    subgraph "Domain Execution"
-        PP --> Mobile[📱 Mobile Ecosystem]
-        PP --> API[🌐 API Ecosystem]
-        PP --> DB[🗄️ Database Ecosystem]
-    end
-
-    subgraph "Safety & Verification"
-        Mobile & API & DB --> CG[Checkpoint Guardian]
-        CG --> OC[Output Critic]
-    end
-
-    style AC fill:#1e1e2e,stroke:#8b5cf6,color:#fff
-    style TD fill:#1e1e2e,stroke:#8b5cf6,color:#fff
-    style PP fill:#1e1e2e,stroke:#8b5cf6,color:#fff
-    style CG fill:#1e1e2e,stroke:#f59e0b,color:#fff
-    style OC fill:#1e1e2e,stroke:#10b981,color:#fff
-```
-
 </div>
 
 ---
@@ -63,11 +38,11 @@ graph TD
 
 <div align="center">
 
-| Core Expertise          | Domain Domains                      | DevOps & Architecture     |
-| :---------------------- | :---------------------------------- | :------------------------ |
-| Agentic Workflows       | Backend Architecture (REST/GraphQL) | Monorepo Orchestration    |
-| Ecosystem Design        | Frontend (React/Next.js)            | CI/CD & Automation        |
-| Parallel Planning Tools | Mobile Development (Concept)        | Cloud & Security Auditing |
+| Core Expertise | Domain Ecosystems | DevOps & Architecture |
+| :--- | :--- | :--- |
+| Agentic Workflows | Backend Architecture (REST/GraphQL) | Monorepo Orchestration |
+| Ecosystem Design | Frontend (React/Next.js) | CI/CD & Automation |
+| Parallel Planning Tools | Mobile Development (Concept) | Cloud & Security Auditing |
 
 </div>
 
@@ -84,8 +59,8 @@ graph TD
 
 ### 🌟 Featured Masterpieces
 
-- 📦 **[fth-skills](https://github.com/fatih-developer/fth-skills):** Curated AI agent skills for coding workflows, decision-making, and agentic task safety. Features 45+ capabilities acting as a coordinated team.
-- 🤖 **[RitmoControl](#):** The Core Orchestrator for managing multi-agent environments and dynamic tasks. _(Add your real link if applicable)._
+* 📦 **[fth-skills](https://github.com/fatih-developer/fth-skills):** Curated AI agent skills for coding workflows, decision-making, and agentic task safety. Features 45+ capabilities acting as a coordinated team.
+* 🤖 **[RitmoControl](#):** The Core Orchestrator for managing multi-agent environments and dynamic tasks. *(Add your real link if applicable).*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
