@@ -1,79 +1,40 @@
 <div align="center">
 
-<!-- BÜYÜK VE DİNAMİK BAŞLIK (Typing SVG) -->
-<a href="https://github.com/fatih-developer">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Fatih+👋;Ecosystem+Creator+%26+Software+Architect;Building+Agentic+AI+Workflows;Orchestrating+Multi-Brain+Systems" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <em>Designing scalable architectures, AI-driven ecosystems, and hybrid handoff patterns.</em>
-</p>
-
-<!-- SOSYAL MEDYA / İLETİŞİM ROZETLERİ -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/fatih-unal-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fatihunal@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://skills.sh/fatih-developer/fth-skills"><img src="https://img.shields.io/badge/Platform-skills.sh-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Skills" /></a>
-</p>
-
----
-
-### 🧠 Architecting the Future: Layered Monorepo & AI Agents
-
-I don't just write code; I design ecosystems. My current focus is developing **`fth-skills`**, a curated collection of agentic AI skills that utilize **Hybrid Handoff Patterns** to automate complex software development life cycles (SDLC).
-
----
-
-### 🎨 Currently Designing: NodeStory.ai
-
-<div align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&text=NodeStory.ai&fontSize=42&fontColor=8B5CF6&desc=The%20Visual%20Canvas%20for%20Agentic%20AI%20Workflows&descAlignY=62&descAlign=50&stroke=8B5CF6&strokeWidth=1" alt="NodeStory.ai - Visual AI Canvas" />
-  </a>
-</div>
-
-<p align="center">
-  <em>A powerful node-based visual story builder that orchestrates APIs, LLMs, and multi-brain tasks entirely on a dynamic canvas.</em>
-</p>
-
----
-
-### 🚀 Tech Stack & Toolkit
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,docker,aws,postgres,mongodb,git,linux,bash,figma" alt="Fatih's Skills" />
-  </a>
-</div>
+<img src="./assets/hero.svg" width="100%" alt="Fatih Ünal — Founder of Yequni LLC, Co-Founder of Evedi Yazılım" />
 
 <br>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/fatih-unal-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C9A227" alt="LinkedIn" /></a>&nbsp;<a href="mailto:fatihunal@outlook.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge" alt="Email" /></a>&nbsp;<a href="https://yequni.com"><img src="https://img.shields.io/badge/yequni.com-0A0A0A?style=for-the-badge" alt="Yequni" /></a>&nbsp;<a href="https://evedi.com.tr"><img src="https://img.shields.io/badge/evedi.com.tr-0A0A0A?style=for-the-badge" alt="Evedi Yazılım" /></a>
 
-| Core Expertise          | Domain Domains                      | DevOps & Architecture     |
-| :---------------------- | :---------------------------------- | :------------------------ |
-| Agentic Workflows       | Backend Architecture (REST/GraphQL) | Monorepo Orchestration    |
-| Ecosystem Design        | Frontend (React/Next.js)            | CI/CD & Automation        |
-| Parallel Planning Tools | Mobile Development (Concept)        | Cloud & Security Auditing |
+<br><br>
 
-</div>
+<img src="./assets/scene-01.svg" width="100%" alt="Scene 01 — The Studios" />
 
----
+<a href="https://yequni.com"><img src="./assets/studio-yequni.svg" width="48%" alt="Yequni LLC — Founder" /></a>&nbsp;<a href="https://evedi.com.tr"><img src="./assets/studio-evedi.svg" width="48%" alt="Evedi Yazılım — Co-Founder" /></a>
 
-### 📊 Ecosystem Analytics
+<sub><b>Yequni</b> designs, builds and ships operations end-to-end with intelligent automation, AI assistants and API integrations.</sub><br>
+<sub><b>Evedi Yazılım</b> takes ideas all the way to working software. New site in production.</sub>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatih-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Fatih's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatih-developer&theme=tokyonight&hide_border=true&background=0D1117" alt="Fatih's Streak" width="48%" />
-</div>
+<br><br>
 
----
+<img src="./assets/scene-02.svg" width="100%" alt="Scene 02 — Now Showing" />
 
-### 🌟 Featured Masterpieces
+| Title | Logline |
+| :-- | :-- |
+| **[fth-skills](https://github.com/fatih-developer/fth-skills)** | Curated agent skills for coding workflows, decision-making and safe agentic work. Packaged for [skills.sh](https://skills.sh/fatih-developer/fth-skills). |
+| **[fermata](https://github.com/fatih-developer/fermata)** | A local supervisor for long Codex and Claude Code runs: it checkpoints before the usage limit, waits for the reset and resumes the same session. .NET 10. |
+| **[keyset](https://github.com/fatih-developer/keyset)** | Project-aware OAuth setup and verification for Next.js, Better Auth, Auth.js, CLI and MCP. |
 
-- 📦 **[fth-skills](https://github.com/fatih-developer/fth-skills):** Curated AI agent skills for coding workflows, decision-making, and agentic task safety. Features 45+ capabilities acting as a coordinated team.
-- 🤖 **[RitmoControl](#):** The Core Orchestrator for managing multi-agent environments and dynamic tasks. _(Add your real link if applicable)._
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+<img src="./assets/scene-03.svg" width="100%" alt="Scene 03 — The Craft" />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,react,nextjs,nodejs,flutter,dart,kotlin,postgres,docker,linux,git&perline=14" alt="C#, .NET, Python, TypeScript, React, Next.js, Node.js, Flutter, Dart, Kotlin, PostgreSQL, Docker, Linux, Git" />
+
+<sub>Agentic AI workflows · Automation architecture · Backend systems · Mobile · Developer tooling</sub>
+
+<br><br>
+
+<img src="./assets/credits.svg" width="100%" alt="Directed by Fatih Ünal. Produced by Yequni LLC and Evedi Yazılım." />
+
 </div>

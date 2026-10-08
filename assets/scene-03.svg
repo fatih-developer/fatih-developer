@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Scene 03 — THE CRAFT">
+  <style>
+    .serif { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .mono  { font-family: ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .fade  { animation: fade 1.2s ease-out .2s both; }
+    .l { stroke-dasharray: 380; animation: draw 1.4s ease-in-out .5s both; }
+    @keyframes fade { from { opacity: 0; } }
+    @keyframes draw { from { stroke-dashoffset: 380; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="1200" height="110" fill="#0A0A0A"/>
+  <line class="l" x1="430" y1="74" x2="50" y2="74" stroke="#C9A227" stroke-opacity="0.5"/>
+  <line class="l" x1="770" y1="74" x2="1150" y2="74" stroke="#C9A227" stroke-opacity="0.5"/>
+  <text class="mono fade" x="600" y="40" font-size="11" fill="#C9A227" letter-spacing="6" text-anchor="middle">SCENE 03</text>
+  <text class="serif fade" x="604" y="82" font-size="26" fill="#EDE6D6" letter-spacing="8" text-anchor="middle">THE CRAFT</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Directed by Fatih Ünal. Produced by Yequni LLC and Evedi Yazılım. Starring agents, automations and systems. Fin.">
+  <style>
+    .serif { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .mono  { font-family: ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .fade  { animation: fade 1.6s ease-out both; }
+    .d1 { animation-delay: .3s; } .d2 { animation-delay: 1.1s; } .d3 { animation-delay: 1.9s; } .d4 { animation-delay: 3.2s; }
+    @keyframes fade { from { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="1200" height="260" fill="#0A0A0A"/>
+  <rect width="1200" height="36" fill="#000"/>
+  <rect y="224" width="1200" height="36" fill="#000"/>
+
+  <g text-anchor="middle">
+    <g class="fade d1">
+      <text class="mono"  x="230" y="88"  font-size="11" fill="#C9A227" letter-spacing="6">DIRECTED BY</text>
+      <text class="serif" x="230" y="120" font-size="22" fill="#EDE6D6" letter-spacing="3">Fatih Ünal</text>
+    </g>
+    <g class="fade d2">
+      <text class="mono"  x="600" y="88"  font-size="11" fill="#C9A227" letter-spacing="6">PRODUCED BY</text>
+      <text class="serif" x="600" y="120" font-size="22" fill="#EDE6D6" letter-spacing="3">Yequni LLC · Evedi Yazılım</text>
+    </g>
+    <g class="fade d3">
+      <text class="mono"  x="970" y="88"  font-size="11" fill="#C9A227" letter-spacing="6">STARRING</text>
+      <text class="serif" x="970" y="120" font-size="22" fill="#EDE6D6" letter-spacing="3">Agents &amp; Automations</text>
+    </g>
+    <text class="serif fade d4" x="600" y="184" font-size="34" font-style="italic" fill="#EDE6D6">Fin.</text>
+  </g>
+
+  <text class="mono" x="600" y="247" font-size="10" fill="#5C574D" letter-spacing="4" text-anchor="middle">TO BE CONTINUED IN THE NEXT COMMIT</text>
+</svg>
